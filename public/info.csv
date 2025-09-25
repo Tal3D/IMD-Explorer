@@ -1,0 +1,33 @@
+Name;AlternativeNames;DiseaseAbbreviation;ICIMDNosologyNumber;IEMNosologyCode;IEMBase_ID;OMIM;GeneSymbol
+Carbamoyl phosphate synthetase I deficiency;CPS1 deficiency, Carbamyl phosphate synthetase deficiency;CPS I deficiency;1.1.02.01;IEM0057;11;237300;CPS1
+Arginase 1 deficiency;Argininemia, Hyperargininemia;ARG1 deficiency;1.1.06.01;IEM0061;16;207800;ARG1
+N-acetylglucosamine 6-sulfatase deficiency;Sanfilippo D disease, Mucopolysaccharidosis type 3D;MPS IIID;20.2.06.01;IEM0863;246;252940;GNS
+Pyruvate carboxylase deficiency;;PCD;3.2.03.01;IEM0372;218;266150;PC
+Aspartoacylase deficiency;Canavan disease, N-Acetylaspartic aciduria;CD;1.9.01.03;IEM0074;164;271900;ASPA
+Dihydropteridine reductase deficiency;;DHPR;21.1.06.01;IEM0087;5;261630;QDPR
+Citrin deficiency;Citrullinemia type II;CTLN2;1.1.08.01;IEM0063;18;605814;SLC25A13
+Dihydropyrimidine dehydrogenase deficiency;Thymine-uraciluria;DPD;16.1.01.01;IEM0148;159;274270;DPYD
+Thiamine transporter 2 deficiency;Wernicke like encephalopathy and BRBG (SLC19A3), Biotin and thiamine basal ganglia disease;SLC19A3;21.2.02.01;IEM0230;392;606152;SLC19A3
+Tangier disease;Primary familial hypoalphalipoproteinemia;TD, FHA;15.4.23.01;IEM0735;378;600046;ABCA1
+Glucosyltransferase 1 deficiency;ALG6-CDG, CDG-Ic;ALG6-CDG;18.1.14.01;IEM0921;323;603147;ALG6
+Hartnup disorder;;HD;1.11.01.01;IEM0065;50;234500;SLC6A19
+Hepatic glycogen synthase deficiency;Glycogen storage disease type 0a;GSD-0a;3.4.03.01;IEM0354;497;240600;GYS2
+Fumarate hydratase deficiency;Fumarase deficiency, Fumaric aciduria;FH1;5.2.06.01;IEM0401;174;606812;FH
+Beta-glucuronidase deficiency;Sly disease, Mucopolysaccharidosis type 7;MPS VII;20.2.1.01;IEM0867;250;253220;GUSB
+Phytanoyl-CoA hydroxylase deficiency;Classic Refsum disease;CRD;14.2.06.01;IEM0888;281;266500;PHYH
+Dihydrolipoyl transacylase deficiency;Maple syrup urine disease type 2, Branched-chain ketoacid dehydrogenase E2 deficiency;;1.3.04.01;IEM0110;1252;248600;DBT
+Pyrroline-5-carboxylate dehydrogenase deficiency;Hyperprolinemia type 2;P5CDH;1.7.06.01;IEM0142;38;239510;ALDH4A1
+Formimidoyltransferase cyclodeaminase deficiency;Forminoglutamic aciduria, Glutamate formimino transferase deficiency;FIGLU;21.8.06.01;IEM0226;47;229100;FTCD
+Galactose epimerase deficiency;Galactosemia type 3, GALE-CDG;GALE-D;3.1.02.02;IEM0323;475;230350;GALE
+Tyrosine hydroxylase deficiency;L-dopa responsive dystonia;TH;23.1.01.01;IEM0076;99;191290;TH
+Beta-galactosylceramidase deficiency;Krabbe disease,  Globoid cell leukodystrophy, Galactocerebrosidase deficiency;GLD;20.1.08.02;IEM0839;289;245200;GALC
+Nephropathic cystinosis;Juvenile cystinosis;CTNS;1.11.01.02;IEM0873;525;219800;CTNS
+Mitochondrial acetoacetyl-CoA thiolase deficiency;Beta-ketothiolase T2 deficiency, alpha-methylacetoacetic aciduria;;4.3.13.01;IEM0643;269;203750;ACAT1
+3-Methylglutaconyl-CoA hydratase deficiency;3-Methylglutaconic aciduria type I;MGA1;1.2.12.01;IEM0118;58;250950;AUH
+Beta-hexosaminidase subunit beta deficiency;Sandhoff disease,  GM2-gangliosidosis O-variant, Hexosaminidase A and B deficiency;;20.1.06.01;IEM0837;285;268800;HEXB
+Sialin deficiency;Infantile sialic acid storage disease, Salla disease;ISSD;3.6.02.01;IEM0874;267;269920;SLC17A5
+Branched-chain ketoacid dehydrogenase E1 beta deficiency;Maple syrup urine disease type 1b;MSUD;1.3.03.01;IEM0109;1251;248600;BCKDHB
+Succinic semialdehyde dehydrogenase deficiency;4-Hydroxybutyric aciduria;SSADH;23.2.06.01;IEM0153;37;271980;ALDH5A1
+Hypoxanthine guanine phosphoribosyltransferase deficiency;Lesch-Nyhan syndrome, Kelley-Seegmiller syndrome;HGPRT;16.2.11.01;IEM0017;145;300322;HPRT1
+Carnitine palmitoyltransferase 1A deficiency;Carnitine palmitoyl-CoA transferase 1 deficiency;CPT1;4.1.02.01;IEM0628;228;255120;CPT1A
+Cystinuria type A;Cystinuria;;1.11.04.01;IEM0068;48;220100;SLC3A1
