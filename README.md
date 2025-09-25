@@ -9,21 +9,21 @@ This is a web-based application designed to explore Inherited Metabolic Disorder
 ## Installation & Development
 
 1. **Install dependencies:**
-   ```
-   npm install
-   ```
+```
+npm install
+```
 
 2. **Run the development server:**
-   ```
-   npm run dev
-   ```
-   The app will be available at [http://localhost:3000](http://localhost:3000).
+```
+npm run dev
+```
+The app will be available at [http://localhost:3000](http://localhost:3000).
 
 3. **Build for production (static export):**
-   ```
-   npm run build
-   ```
-   The output will be in the `out` folder, which can then be hosted statically.
+```
+npm run build
+```
+The output will be in the `out` folder, which can then be hosted statically.
 
 ---
 
